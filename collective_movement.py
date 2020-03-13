@@ -124,7 +124,7 @@ def mk_fig_social_network(G,partition,core_n,sub_n,r,experiment_n):
     plt.savefig('example_fig/out_%i_%i_%1.1f_%i.png' %(core_n,sub_n,r,experiment_n),dpi=300)
 
 # additional methods for the visualizations of the presentation materials.
-# make the countour plot figure of the main result summary representing the comparison of n_{eval} to n_{I}.
+# make the biplot figure of the main result summary representing the comparison of n_{eval} to n_{I}.
 def mk_fig_eval_score_by_experiment_n(evaluation_s,core_n,sub_n,r,experiment_n):
     plt.clf()
     plt.plot(range(1,101),evaluation_s)
