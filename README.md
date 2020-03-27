@@ -1,6 +1,6 @@
 # mix_gauss_caravan_sna
 This is the simulation code used in the manuscirpt,
-Koda and Matsuda "Agent-based simulation for reconstructing social structure by observing collective movements with special reference to single-file movement" posted to bioRxiv on March 26th, 2020(The DOI will be added soon).
+Hiroki Koda, Ikki Matsuda. "Agent-based simulation for reconstructing social structure by observing collective movements with special reference to single-file movement" *bioRxiv* 2020.03.25.007500; doi: https://doi.org/10.1101/2020.03.25.007500.
 
 ## Requirements
 This code is worked under python3 or anaconda3 with:
